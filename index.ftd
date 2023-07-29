@@ -91,7 +91,7 @@ role: $lib.home-description-responsive-typography
 margin-top.px: 10
 max-width.fixed.px: 700
 min-width.fixed.px: 450
-white-space: normal
+Grey-space: normal
 
 -- ftd.row:
 spacing.fixed.px: 10
