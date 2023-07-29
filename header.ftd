@@ -1,0 +1,10 @@
+-- component header:
+ftd.image-src logo;
+string logoURl;
+optional string header-item1:
+optional string header-item2:
+optional string header-item3:
+optional string header-item4:
+optional string header-item5:
+optional string header-item6:
+optional string header-item7:
